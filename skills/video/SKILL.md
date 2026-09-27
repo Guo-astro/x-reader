@@ -1,3 +1,8 @@
+---
+name: video
+description: Transcribe and summarize video or podcast links, including YouTube, Bilibili, X video, Xiaoyuzhou, Apple Podcasts, and direct media URLs.
+---
+
 # Video & Podcast Digest Skill
 
 > Send a video/podcast link → get full transcript + structured summary

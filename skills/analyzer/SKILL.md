@@ -1,3 +1,8 @@
+---
+name: analyzer
+description: Turn source content or a verified transcript into a structured, evidence-grounded analysis with key insights, risks, and action items.
+---
+
 # Content Analyzer Skill
 
 > Any content → structured analysis report with actionable insights
